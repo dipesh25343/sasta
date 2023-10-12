@@ -1,0 +1,17 @@
+div { background-image: image(https://th.bing.com/th/id/OIP.fqZ9-PPqcG_cm0k3JfoINQHaEK?pid=ImgDet&rs=1);
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+#box1
+{
+  background-color:red;
+}
+#box3 {
+  background-color: rgb(49, 214, 255);
+}
+table, th, td { background-color: aqua;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
